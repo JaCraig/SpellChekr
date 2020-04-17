@@ -1,0 +1,2 @@
+# SpellChekr
+Basic spell checker
