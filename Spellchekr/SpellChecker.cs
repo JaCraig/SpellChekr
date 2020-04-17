@@ -29,7 +29,7 @@ namespace Spellchekr
         /// </summary>
         /// <param name="name">The name of the dictionary.</param>
         /// <returns>The dictionary specified.</returns>
-        public ISpellingDictionary GetDictionary(string name)
+        public ISpellingDictionary? GetDictionary(string name)
         {
             return Dictionaries.TryGetValue(name, out var ReturnValue) ? ReturnValue : null;
         }
