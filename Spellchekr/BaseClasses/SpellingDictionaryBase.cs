@@ -76,7 +76,7 @@ namespace Spellchekr.BaseClasses
         /// </summary>
         /// <param name="words">The word.</param>
         /// <returns>The corrected word.</returns>
-        public string Correct(string words)
+        public string? Correct(string? words)
         {
             if (string.IsNullOrEmpty(words))
                 return words;

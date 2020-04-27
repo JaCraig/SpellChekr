@@ -16,6 +16,6 @@
         /// </summary>
         /// <param name="words">The words.</param>
         /// <returns>The corrected words.</returns>
-        string Correct(string words);
+        string? Correct(string? words);
     }
 }
