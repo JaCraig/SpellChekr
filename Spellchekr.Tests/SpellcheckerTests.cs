@@ -1,5 +1,5 @@
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.ObjectPool;
-using Spellchekr.Extensions;
 using Spellchekr.Interfaces;
 using Xunit;
 
@@ -22,7 +22,7 @@ namespace Spellchekr.Tests
         [Fact]
         public void FromServices()
         {
-            Canister.Builder.CreateContainer(null).RegisterSpellChecker().AddAssembly(typeof(SpellcheckerTests).Assembly).Build();
+            new ServiceCollection().AddCanisterModules(x => x.RegisterSpellChecker().AddAssembly(typeof(SpellcheckerTests).Assembly));
             var TestObject = Canister.Builder.Bootstrapper.Resolve<SpellChecker>().GetDictionary("Country");
             Assert.Equal("Country", TestObject.Name);
             Assert.Equal("arabia", TestObject.Correct("Amabia"));

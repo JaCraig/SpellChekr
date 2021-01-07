@@ -1,8 +1,7 @@
-﻿using BigBook.Registration;
-using Canister.Interfaces;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Canister.Interfaces;
+using Spellchekr;
 
-namespace Spellchekr.Extensions
+namespace Microsoft.Extensions.DependencyInjection
 {
     /// <summary>
     /// Service collection extensions
@@ -24,7 +23,7 @@ namespace Spellchekr.Extensions
         /// </summary>
         /// <param name="bootstrapper">The bootstrapper.</param>
         /// <returns>The bootstrapper.</returns>
-        public static IBootstrapper? RegisterSpellChecker(this IBootstrapper? bootstrapper)
+        public static ICanisterConfiguration? RegisterSpellChecker(this ICanisterConfiguration? bootstrapper)
         {
             return bootstrapper?.AddAssembly(typeof(ServiceCollectionExtensions).Assembly).RegisterBigBookOfDataTypes();
         }
