@@ -1,11 +1,12 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.ObjectPool;
 using Spellchekr.Interfaces;
+using Spellchekr.Tests.BaseClasses;
 using Xunit;
 
 namespace Spellchekr.Tests
 {
-    public class SpellcheckerTests
+    public class SpellcheckerTests : TestBaseClass<SpellChecker>
     {
         [Theory]
         [InlineData(new object[] { "Merica", "america" })]
