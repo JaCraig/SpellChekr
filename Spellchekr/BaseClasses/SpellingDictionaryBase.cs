@@ -57,7 +57,7 @@ namespace Spellchekr.BaseClasses
         /// Gets the word regex.
         /// </summary>
         /// <value>The word regex.</value>
-        protected static Regex WordRegex { get; } = new Regex("[a-z]+", RegexOptions.Compiled);
+        protected static Regex WordRegex { get; } = new Regex("[a-z&]+", RegexOptions.Compiled);
 
         /// <summary>
         /// The dictionary
@@ -92,7 +92,7 @@ namespace Spellchekr.BaseClasses
             for (int y = 0; y < WordList.Length; ++y)
             {
                 var SplitWord = WordList[y];
-                if (Dictionary.Contains(SplitWord))
+                if (Dictionary.Contains(SplitWord) || !WordRegex.IsMatch(SplitWord))
                 {
                     Result.Append(SplitWord).Append(" ");
                     continue;
@@ -108,7 +108,10 @@ namespace Spellchekr.BaseClasses
                 }
 
                 if (Candidates.Count > 0)
-                    return Candidates.OrderByDescending(x => x.Value).First().Key;
+                {
+                    Result.Append(Candidates.OrderByDescending(x => x.Value).First().Key).Append(" ");
+                    continue;
+                }
 
                 for (int i = 0; i < List.Count; ++i)
                 {
