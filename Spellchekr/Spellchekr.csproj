@@ -10,7 +10,7 @@
     <Description>Spellchekr is a basic framework for building simple spell checkers.</Description>
     <AssemblyTitle>SpellChekr</AssemblyTitle>
     <Authors>James Craig</Authors>
-    <TargetFramework>netstandard2.1</TargetFramework>
+	  <TargetFrameworks>netstandard2.1;net5.0;net6.0</TargetFrameworks>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <AssemblyName>SpellChekr</AssemblyName>
     <PackageId>SpellChekr</PackageId>
@@ -26,7 +26,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BigBook" Version="4.0.15" />
+    <PackageReference Include="BigBook" Version="4.0.18" />
   </ItemGroup>
 
 </Project>
