@@ -19,10 +19,10 @@ namespace Spellchekr.Modules
         /// Loads the module using the bootstrapper
         /// </summary>
         /// <param name="bootstrapper">The bootstrapper.</param>
-        public void Load(IBootstrapper bootstrapper)
+        public void Load(IServiceCollection bootstrapper)
         {
-            bootstrapper?.RegisterAll<ISpellingDictionary>(ServiceLifetime.Singleton)
-                .Register<SpellChecker>(ServiceLifetime.Singleton);
+            bootstrapper?.AddAllSingleton<ISpellingDictionary>()
+                ?.AddSingleton<SpellChecker>();
         }
     }
 }

@@ -24,7 +24,7 @@ namespace Spellchekr.Tests
         public void FromServices()
         {
             new ServiceCollection().AddCanisterModules(x => x.RegisterSpellChecker().AddAssembly(typeof(SpellcheckerTests).Assembly));
-            var TestObject = Canister.Builder.Bootstrapper.Resolve<SpellChecker>().GetDictionary("Country");
+            var TestObject = new ServiceCollection().AddCanisterModules().BuildServiceProvider()?.GetService<SpellChecker>().GetDictionary("Country");
             Assert.Equal("Country", TestObject.Name);
             Assert.Equal("arabia", TestObject.Correct("Amabia"));
         }
