@@ -26,7 +26,7 @@ In order to use it you need to declare a dictionary:
       
 And then set it up on the service collection along with the SpellChecker class:
 
-    ServiceCollection.AddSingleton<ExampleSpellChecker>().AddSpellChecker();
+    ServiceCollection.AddCanisterModules();
     
 From there you just use the SpellChecker class:
 

@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30011.22
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spellchekr", "Spellchekr\Spellchekr.csproj", "{1C9EAFCA-4CB4-42D7-AF42-57791B8A4C85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spellchekr", "Spellchekr\Spellchekr.csproj", "{1C9EAFCA-4CB4-42D7-AF42-57791B8A4C85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spellchekr.Tests", "Spellchekr.Tests\Spellchekr.Tests.csproj", "{8B4EE4D1-8098-4C05-A7FD-8C330F74E124}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spellchekr.Tests", "Spellchekr.Tests\Spellchekr.Tests.csproj", "{8B4EE4D1-8098-4C05-A7FD-8C330F74E124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spellchekr.Example", "Spellchekr.Example\Spellchekr.Example.csproj", "{9D943D04-89AF-4162-8AA4-FBBB4D44295C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8B4EE4D1-8098-4C05-A7FD-8C330F74E124}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B4EE4D1-8098-4C05-A7FD-8C330F74E124}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B4EE4D1-8098-4C05-A7FD-8C330F74E124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D943D04-89AF-4162-8AA4-FBBB4D44295C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D943D04-89AF-4162-8AA4-FBBB4D44295C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D943D04-89AF-4162-8AA4-FBBB4D44295C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D943D04-89AF-4162-8AA4-FBBB4D44295C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
