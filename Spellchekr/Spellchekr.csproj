@@ -44,7 +44,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="BigBook" Version="5.0.0" />
+    <PackageReference Include="BigBook" Version="5.0.6" />
   </ItemGroup>
 
 </Project>
