@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.0.2"></a>
+## [2.0.2](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.2) (2023-7-13)
+
+### Bug Fixes
+
+* Fixing the package information and setting up the tools ([6db8592](https://www.github.com/JaCraig/SpellChekr/commit/6db859240a9b004253e482a92e232c2cc70754ad))
+* Merge ([23ae406](https://www.github.com/JaCraig/SpellChekr/commit/23ae40634720a77cbf4e04968e3f457f638a63bd))
+
 <a name="2.0.1"></a>
 ## [2.0.1](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.1) (2023-7-13)
 
