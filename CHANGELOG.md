@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.0.37"></a>
+## [2.0.37](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.37) (2023-12-12)
+
+### Bug Fixes
+
+* bump the dependencies group with 1 update ([8b3341d](https://www.github.com/JaCraig/SpellChekr/commit/8b3341dc5c15727e70bd77df619f899e0f812bc4))
+
+### Other
+
+* Merge pull request #91 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-1725126a36 ([6bddc33](https://www.github.com/JaCraig/SpellChekr/commit/6bddc339873fd0d5ab3a6a0aa94dc1f569aa15ea))
+* Merge pull request #92 from JaCraig/dependabot/github_actions/dependencies-9d15ffb50c ([ba73b67](https://www.github.com/JaCraig/SpellChekr/commit/ba73b678f73bf7774183e5da462d5740b30e0934))
+* Merge pull request #93 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-6095d6a029 ([ace1d7e](https://www.github.com/JaCraig/SpellChekr/commit/ace1d7e193149f46d8224ed6ea0eb70b4d976732))
+* Merge pull request #94 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-9380cae661 ([1699ab7](https://www.github.com/JaCraig/SpellChekr/commit/1699ab79cff7de96fc06c9d6ebc5afe6d503ed72))
+* Merge pull request #95 from JaCraig/dependabot/nuget/dependencies-b7f5e8c31f ([38689e2](https://www.github.com/JaCraig/SpellChekr/commit/38689e2bf4ba5ecdfef0031ed780360b1e62cdf8))
+* bump the dependencies group in /Spellchekr.Tests with 1 update ([9390fce](https://www.github.com/JaCraig/SpellChekr/commit/9390fce715a5514857312629e415436c9986b083))
+* bump the dependencies group in /Spellchekr.Tests with 1 update ([a026f46](https://www.github.com/JaCraig/SpellChekr/commit/a026f46d04ba53236f7e135a7c6c7bb7bda46d46))
+* bump the dependencies group in /Spellchekr.Tests with 2 updates ([287666d](https://www.github.com/JaCraig/SpellChekr/commit/287666ddab3f7badb32a296938e001f49c5f3943))
+* bump the dependencies group with 1 update ([18b9db3](https://www.github.com/JaCraig/SpellChekr/commit/18b9db30109b6b17a120e5ff5a1c0f93c82c3f68))
+* Fixing doc gen ([bccadcd](https://www.github.com/JaCraig/SpellChekr/commit/bccadcd6974fd9b152f7e765f8ae2be664fe9fba))
+
 <a name="2.0.36"></a>
 ## [2.0.36](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.36) (2023-11-23)
 
