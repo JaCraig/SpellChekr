@@ -61,7 +61,7 @@ jobs:
       uses: coverallsapp/github-action@v2
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        files: ./SpellChekr.Tests/TestResults-${{ matrix.dotnet-version }}/coverage.net8.0.info
+        files: ./Spellchekr.Tests/TestResults-${{ matrix.dotnet-version }}/coverage.net8.0.info
         format: lcov
       
     - name: Upload NuGet package
