@@ -1,7 +1,7 @@
 # SpellChekr
 Basic spell checker. The system is based on [Peter Norvig's](http://norvig.com/spell-correct.html) spelling suggestion system.
 
-[![.NET Publish](https://github.com/JaCraig/SpellChekr/actions/workflows/dotnet-publish.yml/badge.svg)](https://github.com/JaCraig/SpellChekr/actions/workflows/dotnet-publish.yml)
+[![.NET Publish](https://github.com/JaCraig/SpellChekr/actions/workflows/dotnet-publish.yml/badge.svg)](https://github.com/JaCraig/SpellChekr/actions/workflows/dotnet-publish.yml) [![Coverage Status](https://coveralls.io/repos/github/JaCraig/SpellChekr/badge.svg?branch=master)](https://coveralls.io/github/JaCraig/SpellChekr?branch=master)
 
 ## Usage
 In order to use it you need to declare a dictionary:
