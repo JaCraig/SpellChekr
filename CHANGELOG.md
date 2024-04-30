@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.0.67"></a>
+## [2.0.67](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.67) (2024-04-30)
+
+### Bug Fixes
+
+* bump the dependencies group with 2 updates ([973f284](https://www.github.com/JaCraig/SpellChekr/commit/973f284dff8db822815b226e1250a5646f637119))
+
+### Other
+
+* Merge pull request #190 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-19ce10f744 ([5ea77f9](https://www.github.com/JaCraig/SpellChekr/commit/5ea77f9b2b0d93b152942cf9bfd18582e4b090c6))
+* Merge pull request #191 from JaCraig/dependabot/github_actions/dependencies-67cf71b959 ([35f625c](https://www.github.com/JaCraig/SpellChekr/commit/35f625c517ff73c7b8e8532c10b81c36d71fb73c))
+* Merge pull request #192 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-7c64645fbf ([1a0d6c6](https://www.github.com/JaCraig/SpellChekr/commit/1a0d6c69d547968bf5c3705c32228a18cff27ca1))
+* Merge pull request #193 from JaCraig/dependabot/nuget/dependencies-51355d8f44 ([f01353e](https://www.github.com/JaCraig/SpellChekr/commit/f01353ea025f4afef94b5a383c48fb7fb1cde2bb))
+* bump dependabot/fetch-metadata in the dependencies group ([6035993](https://www.github.com/JaCraig/SpellChekr/commit/60359938c120c9b0a0f446d84b0dc5466ddd546c))
+* bump Mecha.xUnit in /Spellchekr.Tests in the dependencies group ([9878fc4](https://www.github.com/JaCraig/SpellChekr/commit/9878fc463345246598ce7bd984e3204d4bda8325))
+* bump Mecha.xUnit in /Spellchekr.Tests in the dependencies group ([4197647](https://www.github.com/JaCraig/SpellChekr/commit/419764732be338f02c6285d24f881e13ed4bda48))
+* Package updates and code cleanup ([455cf71](https://www.github.com/JaCraig/SpellChekr/commit/455cf7155dadf90737cf8728d082f6815cf65c15))
+* Update README.md ([42a623d](https://www.github.com/JaCraig/SpellChekr/commit/42a623d18320f448a4ab2381cc673058f3e6f835))
+
 <a name="2.0.66"></a>
 ## [2.0.66](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.66) (2024-04-14)
 
