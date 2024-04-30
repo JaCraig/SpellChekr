@@ -14,14 +14,16 @@ namespace Spellchekr.Tests
         /// Initializes a new instance of the <see cref="CountrySpellChecker"/> class.
         /// </summary>
         public CountrySpellChecker(ObjectPool<StringBuilder> objectPool)
-            : base(Countries, objectPool)
+            : base(_Countries, objectPool)
         {
         }
+
+        public override string Name => "Country";
 
         /// <summary>
         /// The words
         /// </summary>
-        private static readonly string[] Countries = new string[]
+        private static readonly string[] _Countries = new string[]
         {
             "Afghanistan",
             "Åland Islands",
@@ -534,7 +536,5 @@ namespace Spellchekr.Tests
             "ZM",
             "ZW",
         };
-
-        public override string Name => "Country";
     }
 }
