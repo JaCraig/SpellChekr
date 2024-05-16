@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.0.73"></a>
+## [2.0.73](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.73) (2024-05-16)
+
+### Bug Fixes
+
+* bump BigBook from 5.1.33 to 5.1.34 in the dependencies group ([8b26b3b](https://www.github.com/JaCraig/SpellChekr/commit/8b26b3b66fc086d8578e115f8cc20eb5320f0bbe))
+
+### Other
+
+* Merge pull request #204 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-1a26926a81 ([0192eae](https://www.github.com/JaCraig/SpellChekr/commit/0192eaee4c14dd1c05b11aff7116442a52a99c5c))
+* Merge pull request #205 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-ef690fe79b ([46b31e1](https://www.github.com/JaCraig/SpellChekr/commit/46b31e1e634cca2f3d3c4735658d78baf9a5deb5))
+* Merge pull request #206 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-0e57b7119a ([10f1aa7](https://www.github.com/JaCraig/SpellChekr/commit/10f1aa7ee967582126502bcf16920d468a7b1679))
+* Merge pull request #207 from JaCraig/dependabot/nuget/dependencies-d9acf7e816 ([c922a60](https://www.github.com/JaCraig/SpellChekr/commit/c922a60941519deb6508ff1231807920ceb25df0))
+* Merge pull request #208 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-eb0187e5bd ([9903801](https://www.github.com/JaCraig/SpellChekr/commit/9903801b344b86257843f71f713f8ffef2dace25))
+* bump Mecha.xUnit in /Spellchekr.Tests in the dependencies group ([eaadff4](https://www.github.com/JaCraig/SpellChekr/commit/eaadff473742b90855a859424d6fc696f9225e17))
+* bump Mecha.xUnit in /Spellchekr.Tests in the dependencies group ([0b074df](https://www.github.com/JaCraig/SpellChekr/commit/0b074df3f0688e697b35261cc3acdffd3205c89a))
+* bump Mecha.xUnit in /Spellchekr.Tests in the dependencies group ([675374c](https://www.github.com/JaCraig/SpellChekr/commit/675374c1d131f4c5f622d5fa99ec7b2a5901f1ed))
+* bump Mecha.xUnit in /Spellchekr.Tests in the dependencies group ([ce6c114](https://www.github.com/JaCraig/SpellChekr/commit/ce6c1145077c154d9ff967dd95a71f5ac30df9dd))
+
 <a name="2.0.72"></a>
 ## [2.0.72](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.72) (2024-05-07)
 
