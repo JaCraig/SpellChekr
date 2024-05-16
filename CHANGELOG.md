@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.0.74"></a>
+## [2.0.74](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.74) (2024-05-16)
+
+### Bug Fixes
+
+* bump BigBook from 5.1.34 to 5.1.35 in the dependencies group ([d8235bb](https://www.github.com/JaCraig/SpellChekr/commit/d8235bb168afcdd1adec4a1e8ee8bc0bc3e4c764))
+
+### Other
+
+* Merge pull request #209 from JaCraig/dependabot/nuget/dependencies-f7de4b2ab9 ([2011dcd](https://www.github.com/JaCraig/SpellChekr/commit/2011dcde69e421c8c89a3af2baf5f5ef993a3eb2))
+
 <a name="2.0.73"></a>
 ## [2.0.73](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.73) (2024-05-16)
 
