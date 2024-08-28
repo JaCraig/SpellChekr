@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.0.91"></a>
+## [2.0.91](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.91) (2024-08-28)
+
+### Bug Fixes
+
+* bump BigBook from 5.1.52 to 5.1.53 in the dependencies group ([54e54e6](https://www.github.com/JaCraig/SpellChekr/commit/54e54e6e5a0d376726c1b64fb72a37da06960ea9))
+
+### Other
+
+* Merge pull request #261 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-3dbce8c6f5 ([3464a5d](https://www.github.com/JaCraig/SpellChekr/commit/3464a5dec366f19f4722a538e317d6339457ee57))
+* Merge pull request #262 from JaCraig/dependabot/nuget/dependencies-661a42d977 ([d440c0f](https://www.github.com/JaCraig/SpellChekr/commit/d440c0f7864a25bbad8f3ea09ee4337c8fc0896e))
+* bump Mecha.xUnit in /Spellchekr.Tests in the dependencies group ([57d5d72](https://www.github.com/JaCraig/SpellChekr/commit/57d5d7278a5b922c2b3b6e5db871f67daebe95a7))
+
 <a name="2.0.90"></a>
 ## [2.0.90](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.90) (2024-08-26)
 
