@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.0.94"></a>
+## [2.0.94](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.94) (2024-10-29)
+
+### Bug Fixes
+
+* bump the dependencies group with 2 updates ([584e7cd](https://www.github.com/JaCraig/SpellChekr/commit/584e7cd1a5f74c6efae571f4e01dbd3a483d072d))
+* bump versionize from 2.0.0 to 2.1.0 in the dependencies group ([8c8edfa](https://www.github.com/JaCraig/SpellChekr/commit/8c8edfa841efeed11cf5bec2d55419862468faa9))
+
+### Other
+
+* Merge pull request #277 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-006c3a6508 ([20e77de](https://www.github.com/JaCraig/SpellChekr/commit/20e77de4d277621f4d87aa094acf9466c59d6bb7))
+* Merge pull request #278 from JaCraig/dependabot/nuget/dependencies-e43804591a ([8b305f4](https://www.github.com/JaCraig/SpellChekr/commit/8b305f4cbb0012d632bc5be8399693d41bd7c389))
+* Merge pull request #279 from JaCraig/dependabot/nuget/dependencies-3894128c1d ([f4ac5f7](https://www.github.com/JaCraig/SpellChekr/commit/f4ac5f792bff4476c91b4fec5239377d786552aa))
+* Merge pull request #280 from JaCraig/dependabot/github_actions/dependencies-18190d55f2 ([be1d47e](https://www.github.com/JaCraig/SpellChekr/commit/be1d47e2837f9cde0d312a8f326d4cef1f003774))
+* bump actions/setup-dotnet in the dependencies group ([f89b63a](https://www.github.com/JaCraig/SpellChekr/commit/f89b63abbc485c0c3ba6373c3512ac278a44876d))
+* bump Mecha.xUnit in /Spellchekr.Tests in the dependencies group ([7fea7ae](https://www.github.com/JaCraig/SpellChekr/commit/7fea7ae665aa61e1786d2997d0ff7a149523b82b))
+* Update versionize configuration ([2b4414c](https://www.github.com/JaCraig/SpellChekr/commit/2b4414c68588c73c69f82e2d99e122f3599140d9))
+
 <a name="2.0.93"></a>
 ## [2.0.93](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.93) (2024-10-10)
 
