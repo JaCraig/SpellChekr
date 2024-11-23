@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="3.0.0"></a>
+## [3.0.0](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.0.0) (2024-11-23)
+
+### Features
+
+* Update configs, workflows, and target frameworks ([b6f6a2f](https://www.github.com/JaCraig/SpellChekr/commit/b6f6a2f13aa915af1e3505b8ab1e5c7e1e7b1d30))
+
+### Breaking Changes
+
+* Update configs, workflows, and target frameworks ([b6f6a2f](https://www.github.com/JaCraig/SpellChekr/commit/b6f6a2f13aa915af1e3505b8ab1e5c7e1e7b1d30))
+
+### Other
+
+* Merge pull request #293 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-617062173c ([e0d7987](https://www.github.com/JaCraig/SpellChekr/commit/e0d798715f339b3acf031f3f0dbf2defa68d851d))
+* bump Microsoft.NET.Test.Sdk ([a530153](https://www.github.com/JaCraig/SpellChekr/commit/a530153e7954037978fb5361d76a76c18615e9d0))
+
 <a name="2.0.100"></a>
 ## [2.0.100](https://www.github.com/JaCraig/SpellChekr/releases/tag/v2.0.100) (2024-11-12)
 
