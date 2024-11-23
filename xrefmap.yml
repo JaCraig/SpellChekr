@@ -1,50 +1,6 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: Microsoft.Extensions.DependencyInjection
-  name: Microsoft.Extensions.DependencyInjection
-  href: api/Microsoft.Extensions.DependencyInjection.html
-  commentId: N:Microsoft.Extensions.DependencyInjection
-  fullName: Microsoft.Extensions.DependencyInjection
-  nameWithType: Microsoft.Extensions.DependencyInjection
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
-  name: ServiceCollectionExtensions
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html
-  commentId: T:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
-  nameWithType: ServiceCollectionExtensions
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSpellChecker(Microsoft.Extensions.DependencyInjection.IServiceCollection)
-  name: AddSpellChecker(IServiceCollection?)
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddSpellChecker_Microsoft_Extensions_DependencyInjection_IServiceCollection_
-  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSpellChecker(Microsoft.Extensions.DependencyInjection.IServiceCollection)
-  name.vb: AddSpellChecker(IServiceCollection)
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSpellChecker(Microsoft.Extensions.DependencyInjection.IServiceCollection?)
-  fullName.vb: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSpellChecker(Microsoft.Extensions.DependencyInjection.IServiceCollection)
-  nameWithType: ServiceCollectionExtensions.AddSpellChecker(IServiceCollection?)
-  nameWithType.vb: ServiceCollectionExtensions.AddSpellChecker(IServiceCollection)
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSpellChecker*
-  name: AddSpellChecker
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddSpellChecker_
-  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSpellChecker
-  isSpec: "True"
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSpellChecker
-  nameWithType: ServiceCollectionExtensions.AddSpellChecker
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.RegisterSpellChecker(Canister.Interfaces.ICanisterConfiguration)
-  name: RegisterSpellChecker(ICanisterConfiguration?)
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_RegisterSpellChecker_Canister_Interfaces_ICanisterConfiguration_
-  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.RegisterSpellChecker(Canister.Interfaces.ICanisterConfiguration)
-  name.vb: RegisterSpellChecker(ICanisterConfiguration)
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.RegisterSpellChecker(Canister.Interfaces.ICanisterConfiguration?)
-  fullName.vb: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.RegisterSpellChecker(Canister.Interfaces.ICanisterConfiguration)
-  nameWithType: ServiceCollectionExtensions.RegisterSpellChecker(ICanisterConfiguration?)
-  nameWithType.vb: ServiceCollectionExtensions.RegisterSpellChecker(ICanisterConfiguration)
-- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.RegisterSpellChecker*
-  name: RegisterSpellChecker
-  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_RegisterSpellChecker_
-  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.RegisterSpellChecker
-  isSpec: "True"
-  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.RegisterSpellChecker
-  nameWithType: ServiceCollectionExtensions.RegisterSpellChecker
 - uid: Spellchekr
   name: Spellchekr
   href: api/Spellchekr.html
@@ -159,6 +115,50 @@ references:
   isSpec: "True"
   fullName: Spellchekr.BaseClasses.SpellingDictionaryBase.WordRegex
   nameWithType: SpellingDictionaryBase.WordRegex
+- uid: Spellchekr.Extensions
+  name: Spellchekr.Extensions
+  href: api/Spellchekr.Extensions.html
+  commentId: N:Spellchekr.Extensions
+  fullName: Spellchekr.Extensions
+  nameWithType: Spellchekr.Extensions
+- uid: Spellchekr.Extensions.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/Spellchekr.Extensions.ServiceCollectionExtensions.html
+  commentId: T:Spellchekr.Extensions.ServiceCollectionExtensions
+  fullName: Spellchekr.Extensions.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: Spellchekr.Extensions.ServiceCollectionExtensions.AddSpellChecker(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: AddSpellChecker(IServiceCollection?)
+  href: api/Spellchekr.Extensions.ServiceCollectionExtensions.html#Spellchekr_Extensions_ServiceCollectionExtensions_AddSpellChecker_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:Spellchekr.Extensions.ServiceCollectionExtensions.AddSpellChecker(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: AddSpellChecker(IServiceCollection)
+  fullName: Spellchekr.Extensions.ServiceCollectionExtensions.AddSpellChecker(Microsoft.Extensions.DependencyInjection.IServiceCollection?)
+  fullName.vb: Spellchekr.Extensions.ServiceCollectionExtensions.AddSpellChecker(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.AddSpellChecker(IServiceCollection?)
+  nameWithType.vb: ServiceCollectionExtensions.AddSpellChecker(IServiceCollection)
+- uid: Spellchekr.Extensions.ServiceCollectionExtensions.AddSpellChecker*
+  name: AddSpellChecker
+  href: api/Spellchekr.Extensions.ServiceCollectionExtensions.html#Spellchekr_Extensions_ServiceCollectionExtensions_AddSpellChecker_
+  commentId: Overload:Spellchekr.Extensions.ServiceCollectionExtensions.AddSpellChecker
+  isSpec: "True"
+  fullName: Spellchekr.Extensions.ServiceCollectionExtensions.AddSpellChecker
+  nameWithType: ServiceCollectionExtensions.AddSpellChecker
+- uid: Spellchekr.Extensions.ServiceCollectionExtensions.RegisterSpellChecker(Canister.Interfaces.ICanisterConfiguration)
+  name: RegisterSpellChecker(ICanisterConfiguration?)
+  href: api/Spellchekr.Extensions.ServiceCollectionExtensions.html#Spellchekr_Extensions_ServiceCollectionExtensions_RegisterSpellChecker_Canister_Interfaces_ICanisterConfiguration_
+  commentId: M:Spellchekr.Extensions.ServiceCollectionExtensions.RegisterSpellChecker(Canister.Interfaces.ICanisterConfiguration)
+  name.vb: RegisterSpellChecker(ICanisterConfiguration)
+  fullName: Spellchekr.Extensions.ServiceCollectionExtensions.RegisterSpellChecker(Canister.Interfaces.ICanisterConfiguration?)
+  fullName.vb: Spellchekr.Extensions.ServiceCollectionExtensions.RegisterSpellChecker(Canister.Interfaces.ICanisterConfiguration)
+  nameWithType: ServiceCollectionExtensions.RegisterSpellChecker(ICanisterConfiguration?)
+  nameWithType.vb: ServiceCollectionExtensions.RegisterSpellChecker(ICanisterConfiguration)
+- uid: Spellchekr.Extensions.ServiceCollectionExtensions.RegisterSpellChecker*
+  name: RegisterSpellChecker
+  href: api/Spellchekr.Extensions.ServiceCollectionExtensions.html#Spellchekr_Extensions_ServiceCollectionExtensions_RegisterSpellChecker_
+  commentId: Overload:Spellchekr.Extensions.ServiceCollectionExtensions.RegisterSpellChecker
+  isSpec: "True"
+  fullName: Spellchekr.Extensions.ServiceCollectionExtensions.RegisterSpellChecker
+  nameWithType: ServiceCollectionExtensions.RegisterSpellChecker
 - uid: Spellchekr.Interfaces
   name: Spellchekr.Interfaces
   href: api/Spellchekr.Interfaces.html
