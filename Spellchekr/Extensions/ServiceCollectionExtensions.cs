@@ -1,7 +1,17 @@
-﻿using Canister.Interfaces;
-using Spellchekr;
+﻿using BigBook.Registration;
+using Canister.Interfaces;
 
-namespace Microsoft.Extensions.DependencyInjection
+/* Unmerged change from project 'Spellchekr (net9.0)'
+Before:
+using Spellchekr;
+After:
+using Microsoft.Extensions.DependencyInjection;
+using Spellchekr;
+*/
+
+using Microsoft.Extensions.DependencyInjection;
+
+namespace Spellchekr.Extensions
 {
     /// <summary>
     /// Service collection extensions
@@ -13,19 +23,13 @@ namespace Microsoft.Extensions.DependencyInjection
         /// </summary>
         /// <param name="serviceDescriptors">The service descriptors.</param>
         /// <returns>The service collection</returns>
-        public static IServiceCollection? AddSpellChecker(this IServiceCollection? serviceDescriptors)
-        {
-            return serviceDescriptors?.AddSingleton<SpellChecker>();
-        }
+        public static IServiceCollection? AddSpellChecker(this IServiceCollection? serviceDescriptors) => serviceDescriptors?.AddSingleton<SpellChecker>();
 
         /// <summary>
         /// Registers the spell checker.
         /// </summary>
         /// <param name="bootstrapper">The bootstrapper.</param>
         /// <returns>The bootstrapper.</returns>
-        public static ICanisterConfiguration? RegisterSpellChecker(this ICanisterConfiguration? bootstrapper)
-        {
-            return bootstrapper?.AddAssembly(typeof(ServiceCollectionExtensions).Assembly).RegisterBigBookOfDataTypes();
-        }
+        public static ICanisterConfiguration? RegisterSpellChecker(this ICanisterConfiguration? bootstrapper) => bootstrapper?.AddAssembly(typeof(ServiceCollectionExtensions).Assembly).RegisterBigBookOfDataTypes();
     }
 }

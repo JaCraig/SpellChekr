@@ -1,5 +1,6 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.ObjectPool;
+using Spellchekr.Extensions;
 using Spellchekr.Interfaces;
 using Spellchekr.Tests.BaseClasses;
 using Xunit;

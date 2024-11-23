@@ -4,7 +4,7 @@
     <Description>Spellchekr is a basic framework for building simple spell checkers.</Description>
     <AssemblyTitle>SpellChekr</AssemblyTitle>
     <Authors>James Craig</Authors>
-	  <TargetFrameworks>net6.0;net8.0</TargetFrameworks>
+	  <TargetFrameworks>net8.0;net9.0</TargetFrameworks>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <AssemblyName>SpellChekr</AssemblyName>
     <PackageId>SpellChekr</PackageId>
@@ -46,9 +46,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="BigBook" Version="5.1.63" />
+    <PackageReference Include="BigBook" Version="6.0.0" />
 	  <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All" />
-	  <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="8.0.0">
+	  <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="9.0.0">
 		  <PrivateAssets>all</PrivateAssets>
 		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 	  </PackageReference>
