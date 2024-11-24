@@ -1,4 +1,14 @@
 {
+  "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html": {
+    "href": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html",
+    "title": "Class ServiceCollectionExtensions | Spellchekr API Reference",
+    "keywords": "Class ServiceCollectionExtensions Namespace Microsoft.Extensions.DependencyInjection Assembly SpellChekr.dll Service collection extensions public static class ServiceCollectionExtensions Inheritance object ServiceCollectionExtensions Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AddSpellChecker(IServiceCollection?) Adds the spell checker. public static IServiceCollection? AddSpellChecker(this IServiceCollection? serviceDescriptors) Parameters serviceDescriptors IServiceCollection The service descriptors. Returns IServiceCollection The service collection RegisterSpellChecker(ICanisterConfiguration?) Registers the spell checker. public static ICanisterConfiguration? RegisterSpellChecker(this ICanisterConfiguration? bootstrapper) Parameters bootstrapper ICanisterConfiguration The bootstrapper. Returns ICanisterConfiguration The bootstrapper."
+  },
+  "api/Microsoft.Extensions.DependencyInjection.html": {
+    "href": "api/Microsoft.Extensions.DependencyInjection.html",
+    "title": "Namespace Microsoft.Extensions.DependencyInjection | Spellchekr API Reference",
+    "keywords": "Namespace Microsoft.Extensions.DependencyInjection Classes ServiceCollectionExtensions Service collection extensions"
+  },
   "api/Spellchekr.BaseClasses.SpellingDictionaryBase.html": {
     "href": "api/Spellchekr.BaseClasses.SpellingDictionaryBase.html",
     "title": "Class SpellingDictionaryBase | Spellchekr API Reference",
@@ -8,16 +18,6 @@
     "href": "api/Spellchekr.BaseClasses.html",
     "title": "Namespace Spellchekr.BaseClasses | Spellchekr API Reference",
     "keywords": "Namespace Spellchekr.BaseClasses Classes SpellingDictionaryBase Spelling dictionary base"
-  },
-  "api/Spellchekr.Extensions.ServiceCollectionExtensions.html": {
-    "href": "api/Spellchekr.Extensions.ServiceCollectionExtensions.html",
-    "title": "Class ServiceCollectionExtensions | Spellchekr API Reference",
-    "keywords": "Class ServiceCollectionExtensions Namespace Spellchekr.Extensions Assembly SpellChekr.dll Service collection extensions public static class ServiceCollectionExtensions Inheritance object ServiceCollectionExtensions Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AddSpellChecker(IServiceCollection?) Adds the spell checker. public static IServiceCollection? AddSpellChecker(this IServiceCollection? serviceDescriptors) Parameters serviceDescriptors IServiceCollection The service descriptors. Returns IServiceCollection The service collection RegisterSpellChecker(ICanisterConfiguration?) Registers the spell checker. public static ICanisterConfiguration? RegisterSpellChecker(this ICanisterConfiguration? bootstrapper) Parameters bootstrapper ICanisterConfiguration The bootstrapper. Returns ICanisterConfiguration The bootstrapper."
-  },
-  "api/Spellchekr.Extensions.html": {
-    "href": "api/Spellchekr.Extensions.html",
-    "title": "Namespace Spellchekr.Extensions | Spellchekr API Reference",
-    "keywords": "Namespace Spellchekr.Extensions Classes ServiceCollectionExtensions Service collection extensions"
   },
   "api/Spellchekr.Interfaces.ISpellingDictionary.html": {
     "href": "api/Spellchekr.Interfaces.ISpellingDictionary.html",
