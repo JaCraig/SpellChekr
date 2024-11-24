@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="3.0.1"></a>
+## [3.0.1](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.0.1) (2024-11-24)
+
+### Bug Fixes
+
+* Update .editorconfig and refactor Spellchecker integration ([729a1b4](https://www.github.com/JaCraig/SpellChekr/commit/729a1b4b0f2ba5696a80cfba7aceb27bfdd68e61))
+
+### Other
+
+* Merge branch 'master' of https://github.com/JaCraig/SpellChekr ([9fbd195](https://www.github.com/JaCraig/SpellChekr/commit/9fbd1952b6371238756c9ab2aabe9c0c260d3136))
+* Update README to include SpellChecker setup instructions ([0b8c6fe](https://www.github.com/JaCraig/SpellChekr/commit/0b8c6fedf281c71e372ba6471aa971a901c0b825))
+
 <a name="3.0.0"></a>
 ## [3.0.0](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.0.0) (2024-11-23)
 
