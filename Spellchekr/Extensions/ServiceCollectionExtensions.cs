@@ -1,17 +1,9 @@
 ﻿using BigBook.Registration;
 using Canister.Interfaces;
-
-/* Unmerged change from project 'Spellchekr (net9.0)'
-Before:
 using Spellchekr;
-After:
-using Microsoft.Extensions.DependencyInjection;
-using Spellchekr;
-*/
+using Spellchekr.Interfaces;
 
-using Microsoft.Extensions.DependencyInjection;
-
-namespace Spellchekr.Extensions
+namespace Microsoft.Extensions.DependencyInjection
 {
     /// <summary>
     /// Service collection extensions
@@ -23,7 +15,14 @@ namespace Spellchekr.Extensions
         /// </summary>
         /// <param name="serviceDescriptors">The service descriptors.</param>
         /// <returns>The service collection</returns>
-        public static IServiceCollection? AddSpellChecker(this IServiceCollection? serviceDescriptors) => serviceDescriptors?.AddSingleton<SpellChecker>();
+        public static IServiceCollection? AddSpellChecker(this IServiceCollection? serviceDescriptors)
+        {
+            if (serviceDescriptors.Exists<SpellChecker>())
+                return serviceDescriptors;
+            return serviceDescriptors?.AddAllSingleton<ISpellingDictionary>()
+                ?.AddSingleton<SpellChecker>()
+                ?.RegisterBigBookOfDataTypes();
+        }
 
         /// <summary>
         /// Registers the spell checker.

@@ -1,6 +1,5 @@
 ﻿using Canister.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
-using Spellchekr.Interfaces;
 
 namespace Spellchekr.Modules
 {
@@ -19,10 +18,6 @@ namespace Spellchekr.Modules
         /// Loads the module using the bootstrapper
         /// </summary>
         /// <param name="bootstrapper">The bootstrapper.</param>
-        public void Load(IServiceCollection bootstrapper)
-        {
-            bootstrapper?.AddAllSingleton<ISpellingDictionary>()
-                ?.AddSingleton<SpellChecker>();
-        }
+        public void Load(IServiceCollection bootstrapper) => bootstrapper?.AddSpellChecker();
     }
 }
