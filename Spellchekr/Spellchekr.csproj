@@ -15,7 +15,7 @@
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>3.0.0</Version>
+    <Version>3.0.2</Version>
     <Nullable>enable</Nullable>
     <Title>SpellChekr</Title>
     <PackageIcon>Icon.png</PackageIcon>
@@ -46,7 +46,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="BigBook" Version="6.0.0" />
+    <PackageReference Include="BigBook" Version="6.0.1" />
 	  <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All" />
 	  <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="9.0.0">
 		  <PrivateAssets>all</PrivateAssets>
