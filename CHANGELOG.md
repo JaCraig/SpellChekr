@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="3.0.3"></a>
+## [3.0.3](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.0.3) (2024-12-09)
+
+### Bug Fixes
+
+* bump the dependencies group in /Spellchekr with 2 updates ([f784a34](https://www.github.com/JaCraig/SpellChekr/commit/f784a34c205eef731dea80a9b3b83377a3f8df65))
+
+### Other
+
+* Merge pull request #296 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-6c34fbe01a ([df162d2](https://www.github.com/JaCraig/SpellChekr/commit/df162d2ff4bed3856629b2d68a156c559511c7ee))
+* Merge pull request #297 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-3dbb324c17 ([cf17efd](https://www.github.com/JaCraig/SpellChekr/commit/cf17efde651ef1c040ecd5c22356d954fe9087be))
+* Merge pull request #298 from JaCraig/dependabot/nuget/Spellchekr/dependencies-9e859d357f ([cf9af91](https://www.github.com/JaCraig/SpellChekr/commit/cf9af9138bfa90d7693b215303b43d73d6bcaf6e))
+* bump BigBook in /Spellchekr.Tests in the dependencies group ([284563c](https://www.github.com/JaCraig/SpellChekr/commit/284563c14258853767ed41de7de9e2bcc3447fcc))
+* bump Mecha.xUnit ([cfbc8ea](https://www.github.com/JaCraig/SpellChekr/commit/cfbc8eac75e24821088b96cd8d31f845724782a0))
+* Merge branch 'master' of https://github.com/JaCraig/SpellChekr ([a2c0ab1](https://www.github.com/JaCraig/SpellChekr/commit/a2c0ab1c511e752e4bfe4c9595c1bde5cbf86317))
+* Update husky and versionize tool versions in dotnet-tools.json ([8aff14c](https://www.github.com/JaCraig/SpellChekr/commit/8aff14cca00735bc1af421c52afd43cd504f1763))
+
 <a name="3.0.2"></a>
 ## [3.0.2](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.0.2) (2024-11-25)
 
