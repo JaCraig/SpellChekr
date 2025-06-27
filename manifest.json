@@ -18,7 +18,11 @@
           "relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions",
+      "Summary": "<p sourcefile=\"api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.yml\" sourcestartlinenumber=\"1\">Service collection extensions</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -28,7 +32,11 @@
           "relative_path": "api/Microsoft.Extensions.DependencyInjection.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Microsoft.Extensions.DependencyInjection",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -38,7 +46,11 @@
           "relative_path": "api/Spellchekr.BaseClasses.SpellingDictionaryBase.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Spellchekr.BaseClasses.SpellingDictionaryBase",
+      "Summary": "<p sourcefile=\"api/Spellchekr.BaseClasses.SpellingDictionaryBase.yml\" sourcestartlinenumber=\"1\">Spelling dictionary base</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -48,7 +60,11 @@
           "relative_path": "api/Spellchekr.BaseClasses.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Spellchekr.BaseClasses",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -58,7 +74,11 @@
           "relative_path": "api/Spellchekr.Interfaces.ISpellingDictionary.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Spellchekr.Interfaces.ISpellingDictionary",
+      "Summary": "<p sourcefile=\"api/Spellchekr.Interfaces.ISpellingDictionary.yml\" sourcestartlinenumber=\"1\">Spelling dictionary interface</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -68,7 +88,11 @@
           "relative_path": "api/Spellchekr.Interfaces.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Spellchekr.Interfaces",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -78,7 +102,11 @@
           "relative_path": "api/Spellchekr.Modules.CanisterModule.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Spellchekr.Modules.CanisterModule",
+      "Summary": "<p sourcefile=\"api/Spellchekr.Modules.CanisterModule.yml\" sourcestartlinenumber=\"1\">Canister module</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -88,7 +116,11 @@
           "relative_path": "api/Spellchekr.Modules.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Spellchekr.Modules",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -98,7 +130,11 @@
           "relative_path": "api/Spellchekr.SpellChecker.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Spellchekr.SpellChecker",
+      "Summary": "<p sourcefile=\"api/Spellchekr.SpellChecker.yml\" sourcestartlinenumber=\"1\">Spell checker main class</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -108,7 +144,11 @@
           "relative_path": "api/Spellchekr.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Spellchekr",
+      "Summary": null
     },
     {
       "type": "Conceptual",
