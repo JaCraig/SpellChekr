@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="3.0.9"></a>
+## [3.0.9](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.0.9) (2025-11-13)
+
+### Bug Fixes
+
+* Bump the dependencies group with 2 updates ([510322d](https://www.github.com/JaCraig/SpellChekr/commit/510322de1da19cfc5dd16b67217253c1b7881968))
+
+### Other
+
+* Merge pull request #334 from JaCraig/dependabot/nuget/dot-config/dependencies-c712425253 ([1a04ade](https://www.github.com/JaCraig/SpellChekr/commit/1a04ade5574c3a4d9d9676a5eea954dd13a61812))
+* Merge pull request #335 from JaCraig/dependabot/nuget/Spellchekr/dependencies-abe5081d6b ([1907b2a](https://www.github.com/JaCraig/SpellChekr/commit/1907b2a7256a5604ce5ce360673a1be33343f050))
+* Bump Microsoft.CodeAnalysis.NetAnalyzers from 9.0.0 to 10.0.100 ([ef8eea7](https://www.github.com/JaCraig/SpellChekr/commit/ef8eea7476348f0f79c4f1d58ae9e5f9b538dae0))
+
 <a name="3.0.8"></a>
 ## [3.0.8](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.0.8) (2025-11-12)
 
