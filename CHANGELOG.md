@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="3.0.11"></a>
+## [3.0.11](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.0.11) (2026-02-04)
+
+### Bug Fixes
+
+* Bump the dependencies group with 1 update ([349b593](https://www.github.com/JaCraig/SpellChekr/commit/349b5939a10b797a26cb77c10193eab1b00ebd67))
+
+### Other
+
+* Merge pull request #348 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-aae94f43ff ([d68b48a](https://www.github.com/JaCraig/SpellChekr/commit/d68b48a93b9b103acf1f392b9461e01b304121a6))
+* Merge pull request #349 from JaCraig/dependabot/nuget/dot-config/dependencies-e58e32e7cb ([fb17be1](https://www.github.com/JaCraig/SpellChekr/commit/fb17be168fb764cafa8fe332ac2c16b19dbb1e31))
+* Merge pull request #350 from JaCraig/dependabot/nuget/dot-config/dependencies-28042fb4d8 ([9f4337d](https://www.github.com/JaCraig/SpellChekr/commit/9f4337d468449cfca5b02cc6f4b2fe501e54ba93))
+* Merge pull request #351 from JaCraig/dependabot/nuget/Spellchekr/dependencies-8de58285cc ([196c119](https://www.github.com/JaCraig/SpellChekr/commit/196c1190f5dbf7fa1f21a25363fad8dad2552186))
+* Merge pull request #352 from JaCraig/dependabot/nuget/Spellchekr/dependencies-8de58285cc ([00930db](https://www.github.com/JaCraig/SpellChekr/commit/00930dbd4a379a3ab1c78f629d8ff3b4b597d782))
+* Bump the dependencies group with 1 update ([796b3e9](https://www.github.com/JaCraig/SpellChekr/commit/796b3e91c2cb3b1f8b1fcd78641d9f3881640c23))
+* Bump the dependencies group with 1 update ([03a0db4](https://www.github.com/JaCraig/SpellChekr/commit/03a0db4391c69547f4f23fe1a9cf2178509e15d9))
+* Bump the dependencies group with 2 updates ([8e9a03b](https://www.github.com/JaCraig/SpellChekr/commit/8e9a03bc979892ef305760f28f6f7217f7a74b35))
+* Bump the dependencies group with 3 updates ([3abdc04](https://www.github.com/JaCraig/SpellChekr/commit/3abdc04cb915b72ef5b0eaa5dcca203ef2cc9bb1))
+
 <a name="3.0.10"></a>
 ## [3.0.10](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.0.10) (2026-01-20)
 
