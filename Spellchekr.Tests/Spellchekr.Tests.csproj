@@ -21,7 +21,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Mecha.xUnit" Version="3.2.10" />
+    <PackageReference Include="Mecha.xUnit" Version="3.2.11" />
   </ItemGroup>
 
   <ItemGroup>
