@@ -8,7 +8,7 @@ namespace Microsoft.Extensions.DependencyInjection
     /// <summary>
     /// Service collection extensions
     /// </summary>
-    public static class ServiceCollectionExtensions
+    public static class SpellCheckerServiceCollectionExtensions
     {
         /// <summary>
         /// Adds the spell checker.
@@ -29,6 +29,6 @@ namespace Microsoft.Extensions.DependencyInjection
         /// </summary>
         /// <param name="bootstrapper">The bootstrapper.</param>
         /// <returns>The bootstrapper.</returns>
-        public static ICanisterConfiguration? RegisterSpellChecker(this ICanisterConfiguration? bootstrapper) => bootstrapper?.AddAssembly(typeof(ServiceCollectionExtensions).Assembly).RegisterBigBookOfDataTypes();
+        public static ICanisterConfiguration? RegisterSpellChecker(this ICanisterConfiguration? bootstrapper) => bootstrapper?.AddAssembly(typeof(SpellCheckerServiceCollectionExtensions).Assembly).RegisterBigBookOfDataTypes();
     }
 }
