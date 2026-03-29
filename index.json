@@ -1,13 +1,13 @@
 {
-  "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html": {
-    "href": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html",
-    "title": "Class ServiceCollectionExtensions | Spellchekr API Reference",
-    "summary": "Class ServiceCollectionExtensions Namespace Microsoft.Extensions.DependencyInjection Assembly SpellChekr.dll Service collection extensions public static class ServiceCollectionExtensions Inheritance object ServiceCollectionExtensions Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AddSpellChecker(IServiceCollection?) Adds the spell checker. public static IServiceCollection? AddSpellChecker(this IServiceCollection? serviceDescriptors) Parameters serviceDescriptors IServiceCollection The service descriptors. Returns IServiceCollection The service collection RegisterSpellChecker(ICanisterConfiguration?) Registers the spell checker. public static ICanisterConfiguration? RegisterSpellChecker(this ICanisterConfiguration? bootstrapper) Parameters bootstrapper ICanisterConfiguration The bootstrapper. Returns ICanisterConfiguration The bootstrapper."
+  "api/Microsoft.Extensions.DependencyInjection.SpellCheckerServiceCollectionExtensions.html": {
+    "href": "api/Microsoft.Extensions.DependencyInjection.SpellCheckerServiceCollectionExtensions.html",
+    "title": "Class SpellCheckerServiceCollectionExtensions | Spellchekr API Reference",
+    "summary": "Class SpellCheckerServiceCollectionExtensions Namespace Microsoft.Extensions.DependencyInjection Assembly SpellChekr.dll Service collection extensions public static class SpellCheckerServiceCollectionExtensions Inheritance object SpellCheckerServiceCollectionExtensions Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AddSpellChecker(IServiceCollection?) Adds the spell checker. public static IServiceCollection? AddSpellChecker(this IServiceCollection? serviceDescriptors) Parameters serviceDescriptors IServiceCollection The service descriptors. Returns IServiceCollection The service collection RegisterSpellChecker(ICanisterConfiguration?) Registers the spell checker. public static ICanisterConfiguration? RegisterSpellChecker(this ICanisterConfiguration? bootstrapper) Parameters bootstrapper ICanisterConfiguration The bootstrapper. Returns ICanisterConfiguration The bootstrapper."
   },
   "api/Microsoft.Extensions.DependencyInjection.html": {
     "href": "api/Microsoft.Extensions.DependencyInjection.html",
     "title": "Namespace Microsoft.Extensions.DependencyInjection | Spellchekr API Reference",
-    "summary": "Namespace Microsoft.Extensions.DependencyInjection Classes ServiceCollectionExtensions Service collection extensions"
+    "summary": "Namespace Microsoft.Extensions.DependencyInjection Classes SpellCheckerServiceCollectionExtensions Service collection extensions"
   },
   "api/Spellchekr.BaseClasses.SpellingDictionaryBase.html": {
     "href": "api/Spellchekr.BaseClasses.SpellingDictionaryBase.html",

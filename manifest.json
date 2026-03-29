@@ -12,17 +12,17 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.yml",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.SpellCheckerServiceCollectionExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html"
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.SpellCheckerServiceCollectionExtensions.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions",
-      "Summary": "<p sourcefile=\"api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.yml\" sourcestartlinenumber=\"1\">Service collection extensions</p>\n"
+      "Title": "Microsoft.Extensions.DependencyInjection.SpellCheckerServiceCollectionExtensions",
+      "Summary": "<p sourcefile=\"api/Microsoft.Extensions.DependencyInjection.SpellCheckerServiceCollectionExtensions.yml\" sourcestartlinenumber=\"1\">Service collection extensions</p>\n"
     },
     {
       "type": "ManagedReference",
