@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="3.1.9"></a>
+## [3.1.9](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.1.9) (2026-04-24)
+
+### Bug Fixes
+
+* Bump the dependencies group with 1 update ([ee94eea](https://www.github.com/JaCraig/SpellChekr/commit/ee94eea27424cb784ed425b549baab38d880048e))
+
+### Other
+
+* Merge pull request #385 from JaCraig/dependabot/nuget/Spellchekr/dependencies-6aadf4a627 ([9d17f7d](https://www.github.com/JaCraig/SpellChekr/commit/9d17f7d7097cf964a9fb12b23a0ece21b2036481))
+* Merge pull request #386 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-c9704cdf56 ([60d4ccd](https://www.github.com/JaCraig/SpellChekr/commit/60d4ccdd4432b5f741572e3193f865c6de5f9e7d))
+* Merge pull request #387 from JaCraig/dependabot/nuget/Spellchekr/dependencies-836dd5b49a ([e30df89](https://www.github.com/JaCraig/SpellChekr/commit/e30df8915314ea83d3dbd92a6b8e11b5d3c432be))
+* Bump the dependencies group with 1 update ([21a6432](https://www.github.com/JaCraig/SpellChekr/commit/21a643260ff866658f33cdf3d2b76c1e0723ed7f))
+* Bump the dependencies group with 4 updates ([1773a31](https://www.github.com/JaCraig/SpellChekr/commit/1773a31c70b0bbe1e2cfcca3164be18c5625bef4))
+
 <a name="3.1.8"></a>
 ## [3.1.8](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.1.8) (2026-04-22)
 
