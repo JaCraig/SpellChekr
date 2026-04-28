@@ -15,7 +15,7 @@
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>3.1.10</Version>
+    <Version>3.1.11</Version>
     <Nullable>enable</Nullable>
     <Title>SpellChekr</Title>
     <PackageIcon>Icon.png</PackageIcon>
