@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="3.1.15"></a>
+## [3.1.15](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.1.15) (2026-05-28)
+
+### Bug Fixes
+
+* **workflows:** remove PERSONAL_ACCESS_TOKEN from workflows ([7632ea4](https://www.github.com/JaCraig/SpellChekr/commit/7632ea455d67b0a6a73cb289f4d0c746df2847d1))
+
+### Other
+
+* Merge pull request #397 from JaCraig/dependabot/nuget/Spellchekr.Tests/dependencies-4b47ae212b ([752a9fe](https://www.github.com/JaCraig/SpellChekr/commit/752a9fec4e6c28dd78cb82223fc129b8ee31b1a1))
+* Bump the dependencies group with 3 updates ([f7e9e28](https://www.github.com/JaCraig/SpellChekr/commit/f7e9e28f8a48feb1b2f62b26d7411df7ad978916))
+
 <a name="3.1.14"></a>
 ## [3.1.14](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.1.14) (2026-05-20)
 
