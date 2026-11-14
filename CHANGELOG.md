@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="4.0.0"></a>
+## [4.0.0](https://www.github.com/JaCraig/SpellChekr/releases/tag/v4.0.0) (2026-11-14)
+
+### Features
+
+* **build:** upgrade .NET targets and dependencies ([65622b5](https://www.github.com/JaCraig/SpellChekr/commit/65622b53d0a899fb6f50ae129e54dc5fb07c5e61))
+
+### Bug Fixes
+
+* Bump the dependencies group with 1 update ([f2e3ff4](https://www.github.com/JaCraig/SpellChekr/commit/f2e3ff4f7b262fc7b2b9501c985b658aaac3d41e))
+
+### Breaking Changes
+
+* **build:** upgrade .NET targets and dependencies ([65622b5](https://www.github.com/JaCraig/SpellChekr/commit/65622b53d0a899fb6f50ae129e54dc5fb07c5e61))
+
+### Other
+
+* Merge pull request #417 from JaCraig/dependabot/nuget/Spellchekr/dependencies-2186410a91 ([829a36b](https://www.github.com/JaCraig/SpellChekr/commit/829a36b7bd3110bf5292546d625a885bdeac29f2))
+
 <a name="3.1.17"></a>
 ## [3.1.17](https://www.github.com/JaCraig/SpellChekr/releases/tag/v3.1.17) (2026-11-08)
 
